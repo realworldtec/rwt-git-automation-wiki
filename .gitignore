@@ -1,0 +1,15 @@
+﻿# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local working folders
+_work_*/
+tmp/
+temp/
+
+# Generated outputs
+*.log
+
+# Local inventory / snapshots
+project_tree.txt
